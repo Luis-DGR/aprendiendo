@@ -1,1 +1,2 @@
-print("somebody save my")
+print("some")
+
